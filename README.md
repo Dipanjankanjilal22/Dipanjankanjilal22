@@ -1,5 +1,5 @@
 - 👋 Hi there,I’m Dipanjan kanjilal welcome
-- 👀 I’m currently a Intern in QEA domain
+- 👀 I’m currently a QEA Engineer
 - 🌱 I’m currently learning Java,Selenium and SoapUI
 - 💞️ I’m looking to collaborate on different projects across Github
 
